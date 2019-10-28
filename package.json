@@ -1,6 +1,6 @@
 {
   "name": "enhanced-emotion",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Better than emotion",
   "main": "src/index.js",
   "scripts": {
