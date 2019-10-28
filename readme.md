@@ -53,7 +53,7 @@ const App = () => {
 }
 ```
 
-##ThemeProvider
+## ThemeProvider
 Global theme
 
 ```
