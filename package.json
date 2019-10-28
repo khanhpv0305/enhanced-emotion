@@ -1,0 +1,23 @@
+{
+  "name": "enhanced-emotion",
+  "version": "1.0.0",
+  "description": "Better than emotion",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/khanhpv0305/enhanced-emotion.git"
+  },
+  "author": "KhanhPV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khanhpv0305/enhanced-emotion/issues"
+  },
+  "homepage": "https://github.com/khanhpv0305/enhanced-emotion#readme",
+  "dependencies": {
+    "emotion": "^10.0.17",
+    "react": "^16.11.0"
+  }
+}
